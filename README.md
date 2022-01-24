@@ -4,7 +4,7 @@ My app tells you the time needed to download an application or a file based on y
 
 You can change the b varieable to b=a/(your download speed)  
 
-If you dont know what your actual mp/s is i have provided some examples 
+If you dont know what your actual mb/s is i have provided some examples 
 Based on your download speed:  
 1 Mbps = 0.125 MB/s 
 2 Mbps = 0.25 MB/s 
