@@ -20,4 +20,11 @@ You can find more on www.gbmb.org/mbps-to-mbs
 This program is based on an exercise from the book Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ (Β Λυκείου)
 
 Python version : 2.7.10
+
+
+
+
+
+
+
 24/1/22
